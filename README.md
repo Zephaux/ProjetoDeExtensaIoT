@@ -1,4 +1,4 @@
-# Projeto De Extensa IoT
+# Projeto De Extensão IoT
 Este repositório tem como finalidade armazenar o projeto IoT para que possa ser analizado pelo docente (Wilton) da disciplina (Aplic. de Cloud, IoT e Indústri 4.0 em Python).
 
 
