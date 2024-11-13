@@ -1,8 +1,8 @@
-# ProjetoDeExtensaIoT
-Este repositório, tem como finalidade, armazenar o projeto IoT para que possa ser analizado pelo docente (Wilton) da disciplina (Aplic. de Cloud, IoT e Indústri 4.0 em Python).
+# Projeto De Extensa IoT
+Este repositório tem como finalidade armazenar o projeto IoT para que possa ser analizado pelo docente (Wilton) da disciplina (Aplic. de Cloud, IoT e Indústri 4.0 em Python).
 
 
-Bibliotecas usadas foram: IOXhop_FirebaseESP32[Versão 5.13.5] (https://github.com/ArtronShop/IOXhop_FirebaseESP32), WiFi (do próprio arduino).
+Bibliotecas usadas foram: IOXhop_FirebaseESP32 [Versão 5.13.5] (https://github.com/ArtronShop/IOXhop_FirebaseESP32), WiFi (do próprio arduino).
 
 #define WIFI_SSID "Nome_Da_Sua_Rede"  (Aqui você coloca o nome da sua rede, caso não saiba, descomente o código comentado e de run, para achar a sua)
 #define WIFI_PASSWORD "soumuitofeliz" (Aqui você vai colocar a senha de sua rede)
